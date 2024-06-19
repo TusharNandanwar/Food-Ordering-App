@@ -1,19 +1,9 @@
-### Screenshots
+# Screenshots
 
- 
-
- 
-
- 
- 
- 
-
-
-
-
-
-
- 
+![food-ordering1](https://github.com/TusharNandanwar/Food-Ordering-App/assets/93318949/488c72c8-f27e-4537-8481-259bd1afc8c2)
+![food-ordering2](https://github.com/TusharNandanwar/Food-Ordering-App/assets/93318949/09abfe4c-3266-4c77-b9f4-1b1cd650917a)
+![food-ordering3](https://github.com/TusharNandanwar/Food-Ordering-App/assets/93318949/bdc56f56-fb26-4093-9ff0-22541770c530)
+![food-ordering4](https://github.com/TusharNandanwar/Food-Ordering-App/assets/93318949/d90025e7-2310-4b88-8736-102fb422c50d)
 
 
 # Getting Started with Create React App
